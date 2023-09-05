@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.header {
+    font-size: 4.6rem;
+    margin-bottom: 4.6rem;
+    text-align: center,
+}
+
+.label {
+    margin-right: 1rem
+
+}
+
+.input::-webkit-inner-spin-button,
+.input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
